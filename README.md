@@ -18,7 +18,5 @@ Summary:<br><br>I am a seasoned Software Engineer with expertise in frontend dev
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 # Blog posts
-
-# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
