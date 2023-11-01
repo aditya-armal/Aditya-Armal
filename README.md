@@ -1,8 +1,7 @@
 ## 🌐 Socials:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-armal/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mr.adityaarmal@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aditya-armal) 
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/Aditya-Armal)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-armal/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mr.adityaarmal@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aditya-armal) 
 -
 # 💫 About Me:               [![](https://visitcount.itsvg.in/api?id=Aditya-Armal&icon=0&color=0)](https://visitcount.itsvg.in)
 Summary:<br><br>I am a seasoned Software Engineer with expertise in frontend development. My experience spans product and product-based companies, where I have excelled in creating customer dashboards, optimizing face recognition, and managing proposal processes. My academic projects demonstrate innovation and efficiency. I am a coding competition winner, a published author, and a former Technical Secretary, showcasing leadership and problem-solving skills. My diverse skill set and dedication make me a valuable asset for complex software and technology projects.
