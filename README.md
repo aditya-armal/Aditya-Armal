@@ -19,4 +19,9 @@ Summary:<br><br>I am a seasoned Software Engineer with expertise in frontend dev
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Leveraging Git Feature Branches for Efficient Collaboration](https://aditya-armal.medium.com/leveraging-git-feature-branches-for-efficient-collaboration-d9d7b7f7c7eb?source=rss-d9f1d8504b07------2)
+- [Demystifying Git Branching: How to Switch and Create Branches](https://aditya-armal.medium.com/demystifying-git-branching-how-to-switch-and-create-branches-5eafded27dff?source=rss-d9f1d8504b07------2)
+- [The Lesson I Learned from “The Worst Programmer I Know”](https://aditya-armal.medium.com/the-lesson-i-learned-from-the-worst-programmer-i-know-6c150d803778?source=rss-d9f1d8504b07------2)
+- [Unveiling ReactJs: Revolutionizing Web Development](https://aditya-armal.medium.com/unveiling-reactjs-revolutionizing-web-development-079f0fb0aa97?source=rss-d9f1d8504b07------2)
+- [Mastering the Art of Writing Clear and Effective Git Commit Messages](https://aditya-armal.medium.com/mastering-the-art-of-writing-clear-and-effective-git-commit-messages-9d4ce0130dfd?source=rss-d9f1d8504b07------2)
 <!-- BLOG-POST-LIST:END -->
