@@ -19,9 +19,9 @@ Summary:<br><br>I am a seasoned Software Engineer with expertise in frontend dev
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Git Reset: Undoing Changes and Reverting Commits in Git](https://aditya-armal.medium.com/git-reset-undoing-changes-and-reverting-commits-in-git-12a912d26589?source=rss-d9f1d8504b07------2)
+- [Git Workflow: Best Practices for a Smooth and Efficient Development Process](https://aditya-armal.medium.com/git-workflow-best-practices-for-a-smooth-and-efficient-development-process-2e43e4f2eb2e?source=rss-d9f1d8504b07------2)
 - [Git Merge vs. Git Rebase: Understanding the Difference and When to Use Each](https://aditya-armal.medium.com/git-merge-vs-git-rebase-understanding-the-difference-and-when-to-use-each-144430efc34b?source=rss-d9f1d8504b07------2)
 - [Git Stash: Managing Temporary Changes in Your Git Workflow](https://aditya-armal.medium.com/git-stash-managing-temporary-changes-in-your-git-workflow-fcf4e10d1ece?source=rss-d9f1d8504b07------2)
 - [Leveraging Git Feature Branches for Efficient Collaboration](https://aditya-armal.medium.com/leveraging-git-feature-branches-for-efficient-collaboration-d9d7b7f7c7eb?source=rss-d9f1d8504b07------2)
-- [Demystifying Git Branching: How to Switch and Create Branches](https://aditya-armal.medium.com/demystifying-git-branching-how-to-switch-and-create-branches-5eafded27dff?source=rss-d9f1d8504b07------2)
-- [The Lesson I Learned from “The Worst Programmer I Know”](https://aditya-armal.medium.com/the-lesson-i-learned-from-the-worst-programmer-i-know-6c150d803778?source=rss-d9f1d8504b07------2)
 <!-- BLOG-POST-LIST:END -->
