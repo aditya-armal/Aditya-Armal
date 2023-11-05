@@ -19,7 +19,7 @@ Summary:<br><br>I am a seasoned Software Engineer with expertise in frontend dev
 
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://github-aditya-armal-streak-stats.vercel.app?user=Aditya-Armal&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-aditya-armal-streak-stats.vercel.app?user=Aditya-Armal)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Armal&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
