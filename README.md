@@ -17,7 +17,7 @@ Summary:<br><br>I am a seasoned Software Engineer with expertise in frontend dev
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
-# Blog posts
+# Blog posts [![Latest Blog-Post Workflow](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
 - [Git Reset: Undoing Changes and Reverting Commits in Git](https://aditya-armal.medium.com/git-reset-undoing-changes-and-reverting-commits-in-git-12a912d26589?source=rss-d9f1d8504b07------2)
 - [Git Workflow: Best Practices for a Smooth and Efficient Development Process](https://aditya-armal.medium.com/git-workflow-best-practices-for-a-smooth-and-efficient-development-process-2e43e4f2eb2e?source=rss-d9f1d8504b07------2)
