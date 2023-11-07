@@ -63,7 +63,7 @@ I am a seasoned Software Engineer with expertise in frontend development. My exp
 
 </div>
 
-# Blog posts [![Latest Blog-Post Workflow](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml)
+# 📝 Blog posts [![Latest Blog-Post Workflow](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
 - [Git Submodules: Managing Dependencies and External Libraries in Git](https://aditya-armal.medium.com/git-submodules-managing-dependencies-and-external-libraries-in-git-d71e557ef9f1?source=rss-d9f1d8504b07------2)
 - [Git Tags: Managing Versions and Releases in Your Git Repository](https://aditya-armal.medium.com/git-tags-managing-versions-and-releases-in-your-git-repository-9a4ee1a24fea?source=rss-d9f1d8504b07------2)
