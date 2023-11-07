@@ -1,11 +1,21 @@
+<!--
+[![](https://visitcount.itsvg.in/api?id=Aditya-Armal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
+-->
+
+<h1 align="center">Hi 👋, I'm Aditya Armal</h1>
+<div align="center" text>
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-armal/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mr.adityaarmal@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aditya-armal) 
--
-# 💫 About Me:               [![](https://visitcount.itsvg.in/api?id=Aditya-Armal&icon=0&color=0)](https://visitcount.itsvg.in)
-Summary:<br><br>I am a seasoned Software Engineer with expertise in frontend development. My experience spans product and product-based companies, where I have excelled in creating customer dashboards, optimizing face recognition, and managing proposal processes. My academic projects demonstrate innovation and efficiency. I am a coding competition winner, a published author, and a former Technical Secretary, showcasing leadership and problem-solving skills. My diverse skill set and dedication make me a valuable asset for complex software and technology projects.
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aditya-armal)
+</div>
+
+<p align="justify">
+I am a seasoned Software Engineer with expertise in frontend development. My experience spans product-based companies, where I have excelled in creating customer dashboards, optimizing face recognition, and managing proposal processes. My academic projects demonstrate innovation and efficiency. I am a coding competition winner, a published author, and a former Technical Secretary, showcasing leadership and problem-solving skills. My diverse skill set and dedication make me a valuable asset for complex software and technology projects.
+</p>
 
 # 💻 Tech Stack:
 
@@ -36,19 +46,22 @@ Summary:<br><br>I am a seasoned Software Engineer with expertise in frontend dev
 | Presentation and Collaboration      | ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) |
 
 # 📦 Projects
-
+<div align="center">
+  
 | Project Name        | Continous Integration | Live Website Link | GitHub Repo Link |
 |---------------------|------------|-------------------|-----------------|
 | **Basic-Redux-App**     | [![Node.js CI](https://github.com/Aditya-Armal/Basic-Redux-App/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Aditya-Armal/Basic-Redux-App/actions/workflows/main.yml) | [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF)](https://basic-redux-app.vercel.app/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/Aditya-Armal/Basic-Redux-App/) |
 | **React-Todo-App**      | [![Node.js CI](https://github.com/Aditya-Armal/reactjs-todo-app/actions/workflows/node.js.yml/badge.svg)](https://github.com/Aditya-Armal/reactjs-todo-app/actions/workflows/node.js.yml) | [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF)](https://adityaarmal-todo-app.vercel.app/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/Aditya-Armal/reactjs-todo-app) |
 
+</div>
 
 # 📊 GitHub Stats:
+<div align="center">
+  
 [![GitHub Streak](https://github-aditya-armal-streak-stats.vercel.app?user=Aditya-Armal)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Armal&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Armal&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
+</div>
 
 # Blog posts [![Latest Blog-Post Workflow](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
