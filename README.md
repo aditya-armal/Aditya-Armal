@@ -52,9 +52,9 @@ Summary:<br><br>I am a seasoned Software Engineer with expertise in frontend dev
 
 # Blog posts [![Latest Blog-Post Workflow](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [Git Submodules: Managing Dependencies and External Libraries in Git](https://aditya-armal.medium.com/git-submodules-managing-dependencies-and-external-libraries-in-git-d71e557ef9f1?source=rss-d9f1d8504b07------2)
 - [Git Tags: Managing Versions and Releases in Your Git Repository](https://aditya-armal.medium.com/git-tags-managing-versions-and-releases-in-your-git-repository-9a4ee1a24fea?source=rss-d9f1d8504b07------2)
 - [Git Reset: Undoing Changes and Reverting Commits in Git](https://aditya-armal.medium.com/git-reset-undoing-changes-and-reverting-commits-in-git-12a912d26589?source=rss-d9f1d8504b07------2)
 - [Git Workflow: Best Practices for a Smooth and Efficient Development Process](https://aditya-armal.medium.com/git-workflow-best-practices-for-a-smooth-and-efficient-development-process-2e43e4f2eb2e?source=rss-d9f1d8504b07------2)
 - [Git Merge vs. Git Rebase: Understanding the Difference and When to Use Each](https://aditya-armal.medium.com/git-merge-vs-git-rebase-understanding-the-difference-and-when-to-use-each-144430efc34b?source=rss-d9f1d8504b07------2)
-- [Git Stash: Managing Temporary Changes in Your Git Workflow](https://aditya-armal.medium.com/git-stash-managing-temporary-changes-in-your-git-workflow-fcf4e10d1ece?source=rss-d9f1d8504b07------2)
 <!-- BLOG-POST-LIST:END -->
