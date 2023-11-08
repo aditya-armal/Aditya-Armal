@@ -3,10 +3,14 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
--->
+
 
 <h1 align="center">Hi 👋, I'm Aditya Armal</h1>
+
+-->
 <div align="center" text>
+  
+![Header](./github-header-image.png)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-armal/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mr.adityaarmal@gmail.com)
