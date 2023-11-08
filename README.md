@@ -6,8 +6,11 @@
 
 
 
--->
 <h1 align="center">Hi 👋, I'm Aditya Armal</h1>
+-->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Aditya%20Armal&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Dev&descAlignY=55&descAlign=71&descSize=31)
+
 <div align="center" text>
   
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-armal/)
