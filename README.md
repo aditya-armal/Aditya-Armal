@@ -69,12 +69,10 @@ I am a seasoned Software Engineer with expertise in frontend development. My exp
 <br>
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Armal&show_icons=true&theme=default)
 </div>
-
+<!--
 # 📝 Blog posts [![Latest Blog-Post Workflow](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml)
-<!-- BLOG-POST-LIST:START -->
-- [Git Workflows: Comparing Centralized, Distributed, and Forking Workflows](https://aditya-armal.medium.com/git-workflows-comparing-centralized-distributed-and-forking-workflows-c83bac104c2c?source=rss-d9f1d8504b07------2)
-- [Git Remote: Managing Multiple Remote Repositories in Git](https://aditya-armal.medium.com/git-remote-managing-multiple-remote-repositories-in-git-71f952fc45de?source=rss-d9f1d8504b07------2)
-- [A Markdown Journey: Unveiling the Magic of Markdown Syntax](https://aditya-armal.medium.com/a-markdown-journey-unveiling-the-magic-of-markdown-syntax-db615cf2fdb4?source=rss-d9f1d8504b07------2)
-- [Git Submodules: Managing Dependencies and External Libraries in Git](https://aditya-armal.medium.com/git-submodules-managing-dependencies-and-external-libraries-in-git-d71e557ef9f1?source=rss-d9f1d8504b07------2)
-- [Git Tags: Managing Versions and Releases in Your Git Repository](https://aditya-armal.medium.com/git-tags-managing-versions-and-releases-in-your-git-repository-9a4ee1a24fea?source=rss-d9f1d8504b07------2)
-<!-- BLOG-POST-LIST:END -->
+-->
+
+| Blog Post          | Recent Activity                        |
+| ------------------ | -------------------------------------- |
+|<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->  | <!--RECENT_ACTIVITY:start--><!--RECENT_ACTIVITY:end--> |
