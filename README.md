@@ -66,7 +66,8 @@ I am a seasoned Software Engineer with expertise in frontend development. My exp
   
 [![GitHub Streak](https://github-aditya-armal-streak-stats.vercel.app?user=Aditya-Armal)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Armal&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
-
+<br>
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Armal&show_icons=true&theme=default)
 </div>
 
 # 📝 Blog posts [![Latest Blog-Post Workflow](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml)
