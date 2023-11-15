@@ -19,7 +19,7 @@
 </div>
 
 <p align="justify">
-I am a seasoned Software Engineer with expertise in frontend development. My experience spans product-based companies, where I have excelled in creating customer dashboards, optimizing face recognition, and managing proposal processes. My academic projects demonstrate innovation and efficiency. I am a coding competition winner, a published author, and a former Technical Secretary, showcasing leadership and problem-solving skills. My diverse skill set and dedication make me a valuable asset for complex software and technology projects.
+👋 Greetings! I'm a seasoned Software Engineer specializing in frontend development, adept at building dynamic user interfaces with React.js, Redux, and leveraging React UI component libraries such as Ant Design, Material-UI, and Argon. Led successful AI surveillance projects for prestigious clients, such as the Indian Navy, demonstrating strong leadership and problem-solving skills. Published author, coding competition winner, and former Technical Secretary with a knack for cleverly integrating various technologies.
 </p>
 
 # 💻 Tech Stack:
