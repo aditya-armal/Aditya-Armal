@@ -72,9 +72,9 @@
 
 # 📝 Blog posts [![Latest Blog-Post Workflow](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [The Cloudflare Regex Catastrophe: Unraveling the Web of Chaos](https://aditya-armal.medium.com/the-cloudflare-regex-catastrophe-unraveling-the-web-of-chaos-2bd4a5b45766?source=rss-d9f1d8504b07------2)
 - [The Target Data Breach: Unveiling the Cyber Siege on Retail](https://aditya-armal.medium.com/the-target-data-breach-unveiling-the-cyber-siege-on-retail-fe711077e91f?source=rss-d9f1d8504b07------2)
 - [Discord’s Epic Database Upgrade: From Slowdowns to Silky Smooth Performance](https://aditya-armal.medium.com/discords-epic-database-upgrade-from-slowdowns-to-silky-smooth-performance-4cc3d02d7897?source=rss-d9f1d8504b07------2)
 - [Simplifying HyperLogLog: Counting with Efficiency](https://aditya-armal.medium.com/simplifying-hyperloglog-counting-with-efficiency-eef00396082a?source=rss-d9f1d8504b07------2)
 - [Mastering DOM Manipulation with JavaScript: Tips and Best Practices](https://aditya-armal.medium.com/mastering-dom-manipulation-with-javascript-tips-and-best-practices-d937db5fe356?source=rss-d9f1d8504b07------2)
-- [The Ultimate Guide to Asynchronous JavaScript: Promises vs. Callbacks vs. Async/Await](https://aditya-armal.medium.com/the-ultimate-guide-to-asynchronous-javascript-promises-vs-callbacks-vs-async-await-1a15fec9aff9?source=rss-d9f1d8504b07------2)
 <!-- BLOG-POST-LIST:END -->
