@@ -15,4 +15,4 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@aditya-armal"
           max_post_count: 10
-          template: "$newline $counter $randomEmoji(💯,🔥,💫,🚀,🌟,💡,📌,🌍,📝,🔍) [$title]($url)"
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌟,💡,📌,🌍,📝,🔍) [$title]($url)"
