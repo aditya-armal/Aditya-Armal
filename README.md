@@ -62,16 +62,19 @@
 
 </div>
 
-# 📊 GitHub Stats:
+# 📊 My Stats:
 <div align="center">
   
 [![GitHub Streak](https://github-aditya-armal-streak-stats.vercel.app?user=Aditya-Armal)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Armal&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 <br>
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Armal&show_icons=true&theme=default)
+<a href="https://leetcode.com/AdiArmal/">
+<img alt="LeetCode Stats Card" src="https://leetcard.jacoblin.cool/AdiArmal?theme=light&font=Convergence" height="195" width="500"/>
+</a>
 </div>
 
-# 📝 Blog posts [![Latest Blog-Post Workflow](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml)
+# 📝 My Latest Blog posts [![Latest Blog-Post Workflow](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
 - [The Night GitLab Lost Its Data: A Tale of Replication Woes and Unseen Consequences](https://aditya-armal.medium.com/the-night-gitlab-lost-its-data-a-tale-of-replication-woes-and-unseen-consequences-aa2dc85fdf36?source=rss-d9f1d8504b07------2)
 - [Healthcare.gov: The Odyssey of a Troubled Launch](https://aditya-armal.medium.com/healthcare-gov-the-odyssey-of-a-troubled-launch-91197f02b0cf?source=rss-d9f1d8504b07------2)
