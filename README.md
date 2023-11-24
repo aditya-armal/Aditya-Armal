@@ -3,11 +3,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
-
-
-
 <h1 align="center">Hi 👋, I'm Aditya Armal</h1>
-
 
 | **API and Query Language**          |                                                           |
 | API Development and Query Language | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) |
