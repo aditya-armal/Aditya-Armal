@@ -19,7 +19,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mr.adityaarmal@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aditya-armal)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/AdiArmal/)
-<a href='aditya-armal.netlify.com' target="_blank"><img alt='alchemy' src='https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=alchemy&logoColor=white&labelColor=884EA0&color=884EA0'/></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=alchemy&logoColor=white&labelColor=884EA0&color=884EA0)](https://aditya-armal.netlify.com)
 
 </div>
 
