@@ -79,12 +79,13 @@
 
 # 📝 My Latest Blog posts [![Latest Blog-Post Workflow](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
- - 📌 [Mastering Context in React with Hooks](https://aditya-armal.medium.com/mastering-context-in-react-with-hooks-fcb64ece5262?source=rss-d9f1d8504b07------2)
- - 📝 [Boosting React Performance with Memoization Techniques](https://aditya-armal.medium.com/boosting-react-performance-with-memoization-techniques-ddb6b7e080bb?source=rss-d9f1d8504b07------2)
- - 🌟 [Mastering React’s useEffect Hook: A Deep Dive](https://blog.stackademic.com/mastering-reacts-useeffect-hook-a-deep-dive-c8da06c46771?source=rss-d9f1d8504b07------2)
- - 💯 [Mastering React’s `useState`: A Comprehensive Guide](https://blog.stackademic.com/mastering-reacts-usestate-a-comprehensive-guide-dbeb69498f10?source=rss-d9f1d8504b07------2)
- - 🚀 [Mastering React: Learning from Mistakes and Navigating the Journey](https://blog.stackademic.com/mastering-react-learning-from-mistakes-and-navigating-the-journey-96ae42e95a9f?source=rss-d9f1d8504b07------2)
- - 🌍 [The Unintended Fallout: YouTube’s Battle Against Ad Blockers](https://aditya-armal.medium.com/the-unintended-fallout-youtubes-battle-against-ad-blockers-a21be511b298?source=rss-d9f1d8504b07------2)
- - 🌟 [Navigating Success: The Untold Story of Google Maps’ $11 Billion Journey](https://aditya-armal.medium.com/navigating-success-the-untold-story-of-google-maps-11-billion-journey-3d07c5749fb3?source=rss-d9f1d8504b07------2)
- - 💯 [ChatGPT vs. Puzzles: A Battle of Wits](https://aditya-armal.medium.com/chatgpt-vs-puzzles-a-battle-of-wits-c9fb8d27f41f?source=rss-d9f1d8504b07------2)
- - 📝 [Navigating the Early Days of Your Career: A Guide for Recent Graduates](https://blog.stackademic.com/navigating-the-early-days-of-your-career-a-guide-for-recent-graduates-2274adedb418?source=rss-d9f1d8504b07------2)<!-- BLOG-POST-LIST:END -->
+ - 📌 [Mastering Complex State in React with useReducer](https://aditya-armal.medium.com/mastering-complex-state-in-react-with-usereducer-46b98be6649d?source=rss-d9f1d8504b07------2)
+ - 📝 [Mastering Context in React with Hooks](https://aditya-armal.medium.com/mastering-context-in-react-with-hooks-fcb64ece5262?source=rss-d9f1d8504b07------2)
+ - 🌟 [Boosting React Performance with Memoization Techniques](https://aditya-armal.medium.com/boosting-react-performance-with-memoization-techniques-ddb6b7e080bb?source=rss-d9f1d8504b07------2)
+ - 💯 [Mastering React’s useEffect Hook: A Deep Dive](https://blog.stackademic.com/mastering-reacts-useeffect-hook-a-deep-dive-c8da06c46771?source=rss-d9f1d8504b07------2)
+ - 🚀 [Mastering React’s `useState`: A Comprehensive Guide](https://blog.stackademic.com/mastering-reacts-usestate-a-comprehensive-guide-dbeb69498f10?source=rss-d9f1d8504b07------2)
+ - 🌍 [Mastering React: Learning from Mistakes and Navigating the Journey](https://blog.stackademic.com/mastering-react-learning-from-mistakes-and-navigating-the-journey-96ae42e95a9f?source=rss-d9f1d8504b07------2)
+ - 🌟 [The Unintended Fallout: YouTube’s Battle Against Ad Blockers](https://aditya-armal.medium.com/the-unintended-fallout-youtubes-battle-against-ad-blockers-a21be511b298?source=rss-d9f1d8504b07------2)
+ - 💯 [Navigating Success: The Untold Story of Google Maps’ $11 Billion Journey](https://aditya-armal.medium.com/navigating-success-the-untold-story-of-google-maps-11-billion-journey-3d07c5749fb3?source=rss-d9f1d8504b07------2)
+ - 📝 [ChatGPT vs. Puzzles: A Battle of Wits](https://aditya-armal.medium.com/chatgpt-vs-puzzles-a-battle-of-wits-c9fb8d27f41f?source=rss-d9f1d8504b07------2)
+ - 🔥 [Navigating the Early Days of Your Career: A Guide for Recent Graduates](https://blog.stackademic.com/navigating-the-early-days-of-your-career-a-guide-for-recent-graduates-2274adedb418?source=rss-d9f1d8504b07------2)<!-- BLOG-POST-LIST:END -->
