@@ -20,9 +20,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aditya-armal)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/AdiArmal/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=alchemy&logoColor=white&labelColor=884EA0&color=884EA0)](https://aditya-armal.netlify.com)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/aditya_armal)
-<br>
-[Schedule time with me](https://calendly.com/aditya-armal/30min)
+<a href='https://calendly.com/aditya-armal' target="_blank"><img alt='google calendar' src='https://img.shields.io/badge/Schedule_time with me-100000?style=for-the-badge&logo=google calendar&logoColor=white&labelColor=black&color=black'/></a>
 
 </div>
 
