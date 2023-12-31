@@ -1,6 +1,6 @@
 <!--
 [![](https://visitcount.itsvg.in/api?id=Aditya-Armal&icon=0&color=0)](https://visitcount.itsvg.in)
-
+https://github-contributor-stats.vercel.app/api?username=Aditya-Armal&combine_all_yearly_contributions=true&limit=5
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 <h1 align="center">Hi 👋, I'm Aditya Armal</h1>
