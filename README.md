@@ -71,7 +71,7 @@ https://github-contributor-stats.vercel.app/api?username=Aditya-Armal&combine_al
 <div align="center">
   
 ![GitHub Streak](https://github-aditya-armal-streak-stats.vercel.app?user=Aditya-Armal)
-![Most Used Language](https://githubs-stats.vercel.app/api/top-langs/?username=Aditya-Armal&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&size_weight=.5&count_weight=0.5)
+![Most Used Language](https://githubs-stats.vercel.app/api/top-langs/?username=Aditya-Armal&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&size_weight=.5&count_weight=0.5&hide=php)
 <br>
 ![Aditya's GitHub Stats](https://githubs-stats.vercel.app/api?username=Aditya-Armal&show_icons=true&theme=default)
 <a href="https://leetcode.com/AdiArmal/">
