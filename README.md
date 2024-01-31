@@ -8,7 +8,6 @@ https://github-contributor-stats.vercel.app/api?username=Aditya-Armal&combine_al
 | **API and Query Language**          |                                                           |
 | API Development and Query Language | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) |
 <a href="https://leetcode.com/AdiArmal/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Aditya%20Armal&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Dev&descAlignY=55&descAlign=71&descSize=31)
