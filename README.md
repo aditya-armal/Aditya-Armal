@@ -80,14 +80,14 @@ https://github-contributor-stats.vercel.app/api?username=Aditya-Armal&combine_al
 
 # 📝 My Latest Blog posts [![Latest Blog-Post Workflow](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml/badge.svg?branch=main)](https://github.com/Aditya-Armal/Aditya-Armal/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
- - 📌 [Mastering React Refs with Hooks](https://blog.stackademic.com/mastering-react-refs-with-hooks-424f318274c1?source=rss-d9f1d8504b07------2)
- - 📝 [Exploring React Server Components: A Revolutionary Paradigm Shift](https://blog.stackademic.com/exploring-react-server-components-a-revolutionary-paradigm-shift-bcf1de380d0d?source=rss-d9f1d8504b07------2)
- - 🌟 [Unleashing the Power of Custom Hooks in React](https://blog.stackademic.com/unleashing-the-power-of-custom-hooks-in-react-4249dc085caa?source=rss-d9f1d8504b07------2)
- - 💯 [Mastering Complex State in React with useReducer](https://blog.stackademic.com/mastering-complex-state-in-react-with-usereducer-46b98be6649d?source=rss-d9f1d8504b07------2)
- - 🚀 [Mastering Context in React with Hooks](https://blog.stackademic.com/mastering-context-in-react-with-hooks-fcb64ece5262?source=rss-d9f1d8504b07------2)
- - 🌍 [Boosting React Performance with Memoization Techniques](https://blog.stackademic.com/boosting-react-performance-with-memoization-techniques-ddb6b7e080bb?source=rss-d9f1d8504b07------2)
- - 🌟 [Mastering React’s useEffect Hook: A Deep Dive](https://blog.stackademic.com/mastering-reacts-useeffect-hook-a-deep-dive-c8da06c46771?source=rss-d9f1d8504b07------2)
- - 💯 [Mastering React’s `useState`: A Comprehensive Guide](https://blog.stackademic.com/mastering-reacts-usestate-a-comprehensive-guide-dbeb69498f10?source=rss-d9f1d8504b07------2)
- - 📝 [Mastering React: Learning from Mistakes and Navigating the Journey](https://blog.stackademic.com/mastering-react-learning-from-mistakes-and-navigating-the-journey-96ae42e95a9f?source=rss-d9f1d8504b07------2)
+ - 📌 [Mastering React Refs with Hooks](https://aditya-armal.medium.com/mastering-react-refs-with-hooks-424f318274c1?source=rss-d9f1d8504b07------2)
+ - 📝 [Exploring React Server Components: A Revolutionary Paradigm Shift](https://aditya-armal.medium.com/exploring-react-server-components-a-revolutionary-paradigm-shift-bcf1de380d0d?source=rss-d9f1d8504b07------2)
+ - 🌟 [Unleashing the Power of Custom Hooks in React](https://aditya-armal.medium.com/unleashing-the-power-of-custom-hooks-in-react-4249dc085caa?source=rss-d9f1d8504b07------2)
+ - 💯 [Mastering Complex State in React with useReducer](https://aditya-armal.medium.com/mastering-complex-state-in-react-with-usereducer-46b98be6649d?source=rss-d9f1d8504b07------2)
+ - 🚀 [Mastering Context in React with Hooks](https://aditya-armal.medium.com/mastering-context-in-react-with-hooks-fcb64ece5262?source=rss-d9f1d8504b07------2)
+ - 🌍 [Boosting React Performance with Memoization Techniques](https://aditya-armal.medium.com/boosting-react-performance-with-memoization-techniques-ddb6b7e080bb?source=rss-d9f1d8504b07------2)
+ - 🌟 [Mastering React’s useEffect Hook: A Deep Dive](https://aditya-armal.medium.com/mastering-reacts-useeffect-hook-a-deep-dive-c8da06c46771?source=rss-d9f1d8504b07------2)
+ - 💯 [Mastering React’s `useState`: A Comprehensive Guide](https://aditya-armal.medium.com/mastering-reacts-usestate-a-comprehensive-guide-dbeb69498f10?source=rss-d9f1d8504b07------2)
+ - 📝 [Mastering React: Learning from Mistakes and Navigating the Journey](https://aditya-armal.medium.com/mastering-react-learning-from-mistakes-and-navigating-the-journey-96ae42e95a9f?source=rss-d9f1d8504b07------2)
  - 🔥 [The Unintended Fallout: YouTube’s Battle Against Ad Blockers](https://aditya-armal.medium.com/the-unintended-fallout-youtubes-battle-against-ad-blockers-a21be511b298?source=rss-d9f1d8504b07------2)<!-- BLOG-POST-LIST:END -->
  - <a href="https://aditya-armal.medium.com/">Explore more articles on my blog...</a>
