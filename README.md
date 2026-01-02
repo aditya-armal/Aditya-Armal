@@ -19,7 +19,8 @@ https://github-contributor-stats.vercel.app/api?username=Aditya-Armal&combine_al
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aditya-armal)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/AdiArmal/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=alchemy&logoColor=white&labelColor=884EA0&color=884EA0)](https://aditya-armal.netlify.app)
-<a href='https://calendly.com/aditya-armal' target="_blank"><img alt='google calendar' src='https://img.shields.io/badge/Schedule_time with me-100000?style=for-the-badge&logo=google calendar&logoColor=white&labelColor=black&color=black'/></a>
+[![Calendly](https://img.shields.io/badge/Calendly-%23006BFF.svg?style=for-the-badge&logo=Calendly&logoColor=white)](https://calendly.com/aditya-armal)
+<!-- <a href='https://calendly.com/aditya-armal' target="_blank"><img alt='google calendar' src='https://img.shields.io/badge/Schedule_time with me-100000?style=for-the-badge&logo=google calendar&logoColor=white&labelColor=black&color=black'/></a> -->
 
 </div>
 
